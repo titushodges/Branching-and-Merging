@@ -1,0 +1,23 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	color: white;
+}
+#wrapper{
+	margin: 0px auto;
+	width: 776px;
+	height: auto;
+	background-color: black;
+	padding-left: 5px;
+}
+img{
+	width: 380px;
+	height: 250px;
+	border: 2px solid #C0C0C0;
+}
+h1{
+	margin-bottom: 20px;
+}
+p{
+	margin-bottom: 10px;
+}
